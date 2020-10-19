@@ -31,5 +31,11 @@ We can find the number of occurrences of all the elements in the array.The maxim
 Ex:Consider an array of length 7, {X1,X2,X2,X4,X3,X4,X4}, The mode is X4 .i,e. X4 is repeating 4 time.So the mode of the array is X4
 
 ## Day-2:Weighted Mean
+Calculating a weighted mean
 
+If the data array is { X1,X2,X3,...Xn}
+Corresponding weights are { Y1,Y2,...,Yn }
+
+Calculation of Weighted Mean is ( X1 x Y1 ) + ( X2 x Y2 ) +...+ (Xn x Yn ) / ( Y1 + Y2 +...+ Yn )
+[Reference](https://www.hackerrank.com/challenges/s10-weighted-mean/tutorial)
 
