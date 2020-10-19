@@ -37,5 +37,6 @@ If the data array is { X1,X2,X3,...Xn}
 Corresponding weights are { Y1,Y2,...,Yn }
 
 Calculation of Weighted Mean is ( X1 x Y1 ) + ( X2 x Y2 ) +...+ (Xn x Yn ) / ( Y1 + Y2 +...+ Yn )
+
 [Reference](https://www.hackerrank.com/challenges/s10-weighted-mean/tutorial)
 
