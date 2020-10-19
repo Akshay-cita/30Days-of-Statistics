@@ -29,3 +29,7 @@ Ex: Consider an array of length 4(The length of array is even number){X1,X2,X3,X
 We can find the number of occurrences of all the elements in the array.The maximum no.of occurence element will be the mode of the array
 
 Ex:Consider an array of length 7, {X1,X2,X2,X4,X3,X4,X4}, The mode is X4 .i,e. X4 is repeating 4 time.So the mode of the array is X4
+
+## Day-2:Weighted Mean
+
+
